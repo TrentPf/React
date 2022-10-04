@@ -6,3 +6,11 @@ nav {
   padding: 25px 25px;
   height: 80px;
 }
+
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  padding: 25px 25px;
+}
